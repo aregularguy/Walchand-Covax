@@ -4,7 +4,7 @@
   "description": "App to create stories",
   "main": "app.js",
   "scripts": {
-    "start": " nodemon app.js"
+    "start": " node app.js"
   },
   "author": "Arshad Bagwan",
   "license": "ISC",
